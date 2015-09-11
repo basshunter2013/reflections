@@ -1,0 +1,17 @@
+Pappu-Pakia Bug
+
+547f4171a82ec6429d002c1acef357aec41d3f17 (    refactoring collision detection) -> funkt nicht
+
+71d52709ddc4066e7a79a1d0a412e43429a0cdeb (removing old readme) -> 
+
+
+7c81b8021ec16c5c7b240220314d01200957d605 ( removing an ad) -> funkt
+
+9c76f50d1aaaa3ac9841286cca2b49bc67f29ae9 (updating description, etc.) -> funkt
+
+746f762e38b5bbb7d0b837464ef6ec3f8ee5bf91 (Update index.htm) -> funkt
+
+
+
+a8591f086afa1db009aaa4398aca14c3b26b72da ( last few fixes based on a good player and probably the last commit) -> Funkt
+1
