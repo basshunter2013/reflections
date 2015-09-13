@@ -1,17 +1,18 @@
-Pappu-Pakia Bug
+Lesson 2
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- It provides a temporary collections of changes
+- It offer the possibility to only commit changed files so it's easier to identify what has changed
 
-547f4171a82ec6429d002c1acef357aec41d3f17 (    refactoring collision detection) -> funkt nicht
+How can you use the staging area to make sure you have one commit per logical change?
+- Make sure before the commit, that just the changes of one logical unit are in the staging area.
+- Make sure, that all necessary changes are in the staging area
 
-71d52709ddc4066e7a79a1d0a412e43429a0cdeb (removing old readme) -> 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- Branches help by separating new functions form existing working ones
+- Multiple features can be developed without destroying the working copy
+- I can always keep a working copy on the master
 
-
-7c81b8021ec16c5c7b240220314d01200957d605 ( removing an ad) -> funkt
-
-9c76f50d1aaaa3ac9841286cca2b49bc67f29ae9 (updating description, etc.) -> funkt
-
-746f762e38b5bbb7d0b837464ef6ec3f8ee5bf91 (Update index.htm) -> funkt
-
-
-
-a8591f086afa1db009aaa4398aca14c3b26b72da ( last few fixes based on a good player and probably the last commit) -> Funkt
-1
+How do the diagrams help you visualize the branch structure?
+- You can easily see the reachability of commits
+- You can see lost commits
+- You know if you need to merge or to update 
